@@ -1,4 +1,4 @@
-# NVim Statusbar Plugin
+# no-pain.nvim
 
 This is a Neovim plugin that provides a highly customizable and visually appealing statusbar inspired by [Zellij](https://zellij.dev/). The plugin leverages the same logic as [mini.clue](https://github.com/siduck76/mini.clue) (similar to [which-key](https://github.com/folke/which-key.nvim)) to display contextual keybindings and modes in a clean and intuitive way.
 
